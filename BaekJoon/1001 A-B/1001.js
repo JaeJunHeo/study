@@ -6,6 +6,6 @@ function solution(a, b){
     return answer;
 }
 
-let exampleA = 1;
+let exampleA = 3;
 let exampleB = 2;
 console.log(solution(exampleA, exampleB));
